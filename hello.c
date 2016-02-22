@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("hello world");
-	printf("kihong did it!");
+	printf("hello world\n");
+	printf("kihong did it!\n");
+	printf("Also Jeehun did it!\n");
 	return 0;
 }
