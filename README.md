@@ -1,10 +1,10 @@
-# Domain Analysis and Software Design(X556-1)Project
+## Domain Analysis and Software Design(X556-1)Project
 
-## Title : Project Helper Application
+### Title : Project Helper Application
 
-## Team Name : Kimkidol
+### Team Name : Kimkidol
 
-## Team Member : 
+### Team Member : 
 + 201220936 KimKiwoo
 + 201220961 KimKihong
 + 201420990 JeongEunseon
@@ -12,7 +12,7 @@
 + 201421020 SonMinseok
 
 
-## Develop environment
+### Develop environment
 1. android : Windows 8 K, android studio, Java
 2. server : Linux, MySQL 5.0.95, PHP
 
