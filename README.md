@@ -63,10 +63,10 @@
 4. Team list tab
 	- All team lists that user is joined are shown on the white part of the screen and there is a button on the bottom.
 
-	-Team list
+	- Team list
 		- Team list contain teamName, and lectureID.
 		- User can click one of team list when he/she wants to enter the team page.
-	-Button
+	- Button
 		- There are a button on the bottom for add team.
 		- adding team requires teamName and lectureID.
 
