@@ -19,11 +19,11 @@
 
 ### Files
 1. pha.zip
->zip file which has android studio project
+  + zip file which has android studio project
 
 2. server.zip
->>zip file which has codes in project's server. Folders in this file must be in the server.
->>If you want to use your own server, let these folders are in server's /www folder and need to change host address in android code and mysql information in server code
+  + zip file which has codes in project's server. Folders in this file must be in the server.
+  + If you want to use your own server, let these folders are in server's /www folder and need to change host address in android code and mysql information in server code
 
 
 ### Compile and Run
