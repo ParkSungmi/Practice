@@ -49,7 +49,6 @@
 
 3. Timetable tab
 	- User's private timetable is taken most part of the screen and there is a button on the bottom.
-	
 	- Timetable
 		- Each block of the timetable means 30minutes.
 		- TImetable display lectures from 9AM to 9PM.
@@ -62,7 +61,6 @@
 
 4. Team list tab
 	- All team lists that user is joined are shown on the white part of the screen and there is a button on the bottom.
-
 	- Team list
 		- Team list contain teamName, and lectureID.
 		- User can click one of team list when he/she wants to enter the team page.
@@ -72,7 +70,6 @@
 
 5.Team page
 	- User can see a teamTimetable and a button.
-	
 	- Team timetable
 		- team timetable gives information about all members' lectures to users.
 		- There are three block types. white means empty, and orange the team schedule leader made. Combining all members' timetables, for each block, it become black if at least one member has a lecture at the time.
