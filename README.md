@@ -72,7 +72,7 @@
 
 5.Team page
 	- User can see a teamTimetable and a button.
-	 
+	
 	- Team timetable
 		- team timetable gives information about all members' lectures to users.
 		- There are three block types. white means empty, and orange the team schedule leader made. Combining all members' timetables, for each block, it become black if at least one member has a lecture at the time.
