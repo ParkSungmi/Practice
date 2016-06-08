@@ -25,6 +25,9 @@
   + zip file which has codes in project's server. Folders in this file must be in the server.
   + If you want to use your own server, let these folders are in server's /www folder and need to change host address in android code and mysql information in server code
 
+3. app-debug.apk
+  + apk file for the project
+
 
 ### Compile and Run
 + This project is android application, so you need to build it in Android Studio. 
