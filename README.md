@@ -53,6 +53,7 @@
    - Each block of the timetable means 30minutes.
    - TImetable display lectures from 9AM to 9PM.
    - gray-colored-block means empty and orange-colored block with text means there is a lecture at the time.
+
  - Button
    - Once user click the button, two other buttons come up.
    - First button is for adding lecture and the other for deleting.
@@ -64,6 +65,7 @@
  - Team list
    - Team list contain teamName, and lectureID.
    - User can click one of team list when he/she wants to enter the team page.
+
  - Button
    - There are a button on the bottom for add team.
    - adding team requires teamName and lectureID.
@@ -73,6 +75,7 @@
  - Team timetable
    - team timetable gives information about all members' lectures to users.
    - There are three block types. white means empty, and orange the team schedule leader made. Combining all members' timetables, for each block, it become black if at least one member has a lecture at the time.
+
  - Button
    - Once leader click the button, three buttons come up, but member can see only second and third buttons.
    - First button is for adding member and it requires member's ID.
