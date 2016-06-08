@@ -17,7 +17,7 @@
 2. server : Linux, MySQL 5.0.95, PHP
 
 
-##Files
+### Files
 1. pha.zip
 + zip file which has android studio project
 2. server.zip
@@ -25,7 +25,7 @@
 + If you want to use your own server, let these folders are in server's /www folder and need to change host address in android code and mysql information in server code
 
 
-##Compile and Run
+### Compile and Run
 + This project is android application, so you need to build it in Android Studio. 
 + Import this project with Android Studio (The android project's name is pha)
 + To build the project, you should click Build | Make Project
