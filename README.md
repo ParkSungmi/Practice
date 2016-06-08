@@ -38,17 +38,17 @@
 
 ### Function
 
-#### Authentication page
+#### 1. Authentication page
  - There are two blanks and two buttons : ID, password / sign in, sign up
  - Users put their ID and password in the blanks and sign in.
  - If they donot have their own account, they can sign up with sign up button.
  - It requires userID, password, studentID, Name for sign up.
 
-#### Initial page
+#### 2. Initial page
  - There are two tabs on top of the screen.
  - First tab is for user's timetable, and the other team list.
 
-#### Timetable tab
+#### 3. Timetable tab
  - User's private timetable is taken most part of the screen and there is a button on the bottom.
  
 ##### Timetable
@@ -62,7 +62,7 @@
  - Adding lecture requires lectureName, lectureRoom, professorName, and lectureTime. Except lectureTime, all data is inserted by user with keyboard. User need to choose lectureTime on the screen.
  - Deleting lecture requires lectureName that user want to do.
 
-#### Team list tab
+#### 4. Team list tab
  - All team lists that user is joined are shown on the white part of the screen and there is a button on the bottom.
  
 ##### Team list
@@ -73,7 +73,7 @@
  - There are a button on the bottom for add team.
  - adding team requires teamName and lectureID.
 
-#### Team page
+#### 5. Team page
  - User can see a teamTimetable and a button.
  
 ##### Team timetable
